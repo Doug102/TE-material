@@ -1,0 +1,13 @@
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\08_Data_Security\student-lecture-slq-injection\WorldGeography\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\08_Data_Security\student-lecture-slq-injection\WorldGeography\bin\Debug\netcoreapp2.1\WorldGeography.deps.json
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\08_Data_Security\student-lecture-slq-injection\WorldGeography\bin\Debug\netcoreapp2.1\WorldGeography.runtimeconfig.json
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\08_Data_Security\student-lecture-slq-injection\WorldGeography\bin\Debug\netcoreapp2.1\WorldGeography.runtimeconfig.dev.json
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\08_Data_Security\student-lecture-slq-injection\WorldGeography\bin\Debug\netcoreapp2.1\WorldGeography.dll
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\08_Data_Security\student-lecture-slq-injection\WorldGeography\bin\Debug\netcoreapp2.1\WorldGeography.pdb
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\08_Data_Security\student-lecture-slq-injection\WorldGeography\obj\Debug\netcoreapp2.1\WorldGeography.csprojAssemblyReference.cache
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\08_Data_Security\student-lecture-slq-injection\WorldGeography\obj\Debug\netcoreapp2.1\WorldGeography.AssemblyInfoInputs.cache
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\08_Data_Security\student-lecture-slq-injection\WorldGeography\obj\Debug\netcoreapp2.1\WorldGeography.AssemblyInfo.cs
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\08_Data_Security\student-lecture-slq-injection\WorldGeography\obj\Debug\netcoreapp2.1\WorldGeography.csproj.CoreCompileInputs.cache
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\08_Data_Security\student-lecture-slq-injection\WorldGeography\obj\Debug\netcoreapp2.1\WorldGeography.dll
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\08_Data_Security\student-lecture-slq-injection\WorldGeography\obj\Debug\netcoreapp2.1\WorldGeography.pdb
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\08_Data_Security\student-lecture-slq-injection\WorldGeography\obj\Debug\netcoreapp2.1\WorldGeography.genruntimeconfig.cache

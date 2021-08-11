@@ -1,0 +1,5 @@
+RewriteEngine On
+RewriteCond %{SERVER_PORT} !443
+RewriteRule ^(.*)$ https://www.cbus-capstone.com/$1 [R]
+Redirect /list https://www.cbus-capstone.com/
+Redirect /print https://www.cbus-capstone.com/

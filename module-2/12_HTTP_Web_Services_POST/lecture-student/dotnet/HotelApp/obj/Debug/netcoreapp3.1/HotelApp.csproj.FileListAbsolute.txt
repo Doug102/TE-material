@@ -1,0 +1,15 @@
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\12_HTTP_Web_Services_POST\lecture-student\dotnet\HotelApp\bin\Debug\netcoreapp3.1\HotelApp.exe
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\12_HTTP_Web_Services_POST\lecture-student\dotnet\HotelApp\bin\Debug\netcoreapp3.1\HotelApp.deps.json
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\12_HTTP_Web_Services_POST\lecture-student\dotnet\HotelApp\bin\Debug\netcoreapp3.1\HotelApp.runtimeconfig.json
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\12_HTTP_Web_Services_POST\lecture-student\dotnet\HotelApp\bin\Debug\netcoreapp3.1\HotelApp.runtimeconfig.dev.json
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\12_HTTP_Web_Services_POST\lecture-student\dotnet\HotelApp\bin\Debug\netcoreapp3.1\HotelApp.dll
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\12_HTTP_Web_Services_POST\lecture-student\dotnet\HotelApp\bin\Debug\netcoreapp3.1\HotelApp.pdb
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\12_HTTP_Web_Services_POST\lecture-student\dotnet\HotelApp\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\12_HTTP_Web_Services_POST\lecture-student\dotnet\HotelApp\obj\Debug\netcoreapp3.1\HotelApp.csprojAssemblyReference.cache
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\12_HTTP_Web_Services_POST\lecture-student\dotnet\HotelApp\obj\Debug\netcoreapp3.1\HotelApp.AssemblyInfoInputs.cache
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\12_HTTP_Web_Services_POST\lecture-student\dotnet\HotelApp\obj\Debug\netcoreapp3.1\HotelApp.AssemblyInfo.cs
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\12_HTTP_Web_Services_POST\lecture-student\dotnet\HotelApp\obj\Debug\netcoreapp3.1\HotelApp.csproj.CoreCompileInputs.cache
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\12_HTTP_Web_Services_POST\lecture-student\dotnet\HotelApp\obj\Debug\netcoreapp3.1\HotelApp.csproj.CopyComplete
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\12_HTTP_Web_Services_POST\lecture-student\dotnet\HotelApp\obj\Debug\netcoreapp3.1\HotelApp.dll
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\12_HTTP_Web_Services_POST\lecture-student\dotnet\HotelApp\obj\Debug\netcoreapp3.1\HotelApp.pdb
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\12_HTTP_Web_Services_POST\lecture-student\dotnet\HotelApp\obj\Debug\netcoreapp3.1\HotelApp.genruntimeconfig.cache

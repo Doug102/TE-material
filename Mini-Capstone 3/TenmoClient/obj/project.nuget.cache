@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "J2CjVqy57Ky9o9nzodCpG82wpFA71+Xhc/22vQVJcxitNcO6hRt6B0CSGbH6O3pS4XttNUJJnwuxaiNNm69g9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Student\\team5-c-sharp-week08-orange-pair-exercises\\18_Mini_Capstone\\TenmoClient\\TenmoClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Student\\.nuget\\packages\\restsharp\\106.10.1\\restsharp.106.10.1.nupkg.sha512"
+  ],
+  "logs": []
+}

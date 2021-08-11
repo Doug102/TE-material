@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8K1mT4z1pEqU7IPpCTvvcZpVjO49O0U8j4uZOA2VKdXhR3ioIPSXK1syPyyt69MFURn8/X9vUzXeiwa/69vgXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Student\\douglasstauffer-c-sharp-orange\\module-2\\12_HTTP_Web_Services_POST\\tutorial-final\\dotnet\\LocationApp\\LocationApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Student\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512"
+  ],
+  "logs": []
+}

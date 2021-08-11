@@ -1,0 +1,355 @@
+{
+  "version": "1.02 CBUS",
+  "topTitleLine": "Final Capstones Expo - Columbus",
+  "secondTitleLine": "DECEMBER 18, 2020  |  12:30 - 2:00 PM (Tentative times)",
+  "mainVideo": "https://meet.jit.si/CapstoneExpoCBUS",
+  "randomMessage": "The teams shown below are in random order. Reloading or refreshing the page will change the order.",
+  "instructions": [
+    {
+      "line": "Click 'Join Meeting' on the video to the left to speak with a Tech Elevator representative for questions/feedback."
+    },
+    {
+      "line": "To access on your mobile device, in the window above, scroll down and select 'Launch in Web'"
+    },
+    {
+      "line": " Below you can review all of the Capstone Projects and access a live demo of each team's web application by clicking their 'Visit' link"
+    },
+    {
+      "line": " Return to this page at any time to speak with a representative (refresh the webpage if the video isn't available)"
+    }
+  ],
+  "tipsHeading": "Pro Tips",
+  "tips": [
+    {
+      "line": "Capstone teams will begin a new demo every 10-minutes (roughly)"
+    },
+    {
+      "line": "If you join in the middle of a demo, please introduce yourself via CHAT"
+    },
+    {
+      "line": "Turn your video ON and MUTE your audio when you're not speaking"
+    },
+    {
+      "line": "Capstone Teams appreciate questions/feedback so please engage during the demo"
+    }
+  ],
+  "teams": [
+    {
+      "id": 1,
+      "name": "team ALPHA",
+      "project": "Cat Employment (Adoption)",
+      "technologies": "Java, vue.js",
+      "members": [
+        {
+          "member": "Elaina Rusetsky",
+          "linkedIn": "https://www.linkedin.com/in/erusetsky/"
+        },
+        {
+          "member": "Josh Desola",
+          "linkedIn": "https://www.linkedin.com/in/joshua-desola/"
+        },
+        {
+          "member": "Olivia Tolle",
+          "linkedIn": "https://www.linkedin.com/in/oliviatolle/"
+        },
+        {
+          "member": "Chloe Twilligear",
+          "linkedIn": "https://www.linkedin.com/in/chloe-twilligear-65842a1a7/"
+        }
+      ],
+      "quickLink": "https://meet.jit.si/TeamAlphaCBUS"
+    },
+    {
+      "id": 2,
+      "name": "team BRAVO",
+      "project": "Kids Wellness Activity App",
+      "technologies": "Java, vue.js",
+      "members": [
+        {
+          "member": "Andrew Crowell",
+          "linkedIn": "https://www.linkedin.com/in/andrew-crowell/"
+        },
+        {
+          "member": "Evan Huddleson",
+          "linkedIn": "https://www.linkedin.com/in/evanhuddleson/"
+        },
+        {
+          "member": "Noah Yohanes",
+          "linkedIn": "https://www.linkedin.com/in/noah-yohannes/"
+        },
+        {
+          "member": "Jeff White",
+          "linkedIn": "https://www.linkedin.com/in/jeffwhite23/"
+        }
+      ],
+      "quickLink": "https://meet.jit.si/TeamBravoCBUS"
+    },
+    {
+      "id": 3,
+      "name": "team CHARLIE",
+      "project": "eLearning Portal",
+      "technologies": "Java, vue.js",
+      "members": [
+        {
+          "member": "Evan Carlisle",
+          "linkedIn": "https://www.linkedin.com/in/c-evan-carlisle/"
+        },
+        {
+          "member": "Jordan Spencer",
+          "linkedIn": "https://www.linkedin.com/in/jordanspencercbus/"
+        },
+        {
+          "member": "Jacob Sparks",
+          "linkedIn": "https://www.linkedin.com/in/jacobsparkssd/"
+        },
+        {
+          "member": "Tremont Clark",
+          "linkedIn": "https://www.linkedin.com/in/tremont-clark-7743991a2/"
+        }
+      ],
+      "quickLink": "https://meet.jit.si/TeamCharlieCBUS"
+    },
+    {
+      "id": 4,
+      "name": "team DELTA",
+      "project": "Medical Scheduling App",
+      "technologies": "Java, vue.js",
+      "members": [
+        {
+          "member": "Christina Moyer",
+          "linkedIn": "https://www.linkedin.com/in/christina-moyer/"
+        },
+        {
+          "member": "Kristen Greer",
+          "linkedIn": "https://www.linkedin.com/in/kristen-greer-275706/"
+        },
+        {
+          "member": "Ross White",
+          "linkedIn": "https://www.linkedin.com/in/rossleewhite/"
+        },
+        {
+          "member": "Osman Hussein",
+          "linkedIn": "https://www.linkedin.com/in/osman-hussein/"
+        }
+      ],
+      "quickLink": "https://meet.jit.si/TeamDeltaCBUS"
+    },
+    {
+      "id": 5,
+      "name": "team ECHO",
+      "project": "Family Reading Tracker",
+      "technologies": "Java, vue.js",
+      "members": [
+        {
+          "member": "Greg Hubbard",
+          "linkedIn": "https://www.linkedin.com/in/gdhubbardjr/"
+        },
+        {
+          "member": "Molly Redman",
+          "linkedIn": "https://www.linkedin.com/in/molly-redman-50487710/"
+        },
+        {
+          "member": "Jeff Dye",
+          "linkedIn": "https://www.linkedin.com/in/-jeff-dye-/"
+        },
+        {
+          "member": "Rebecca Barrett",
+          "linkedIn": "https://www.linkedin.com/in/rebbecabarrett/"
+        }
+      ],
+      "quickLink": "https://meet.jit.si/TeamEchoCBUS"
+    },
+    {
+      "id": 6,
+      "name": "team FOXTROT",
+      "project": "Cookout Order Application",
+      "technologies": "Java, vue.js",
+      "members": [
+        {
+          "member": "Dave Kruse",
+          "linkedIn": "https://www.linkedin.com/in/dave-kruse-dublin-oh/"
+        },
+        {
+          "member": "Jake Vasbinder",
+          "linkedIn": "https://www.linkedin.com/in/jacob-vasbinder-31b52345/"
+        },
+        {
+          "member": "Trenton Crump",
+          "linkedIn": "https://www.linkedin.com/in/trenton-crump-23b28275/"
+        },
+        {
+          "member": "Lyndsey McMath",
+          "linkedIn": "https://www.linkedin.com/in/lyndseymcmath/"
+        }
+      ],
+      "quickLink": "https://meet.jit.si/TeamFoxtrotCBUS"
+    },
+    {
+      "id": 7,
+      "name": "team GOLF",
+      "project": "Medical Scheduling Application",
+      "technologies": "Java, vue.js",
+      "members": [
+        {
+          "member": "Jorie Stickel",
+          "linkedIn": "https://www.linkedin.com/in/joriestickel/"
+        },
+        {
+          "member": "Chris Ball",
+          "linkedIn": "https://www.linkedin.com/in/christopherball99/"
+        },
+        {
+          "member": "Rabi Alhassan",
+          "linkedIn": "https://www.linkedin.com/in/rabi-alhassan-43a171107/"
+        },
+        {
+          "member": "Jess Stevenson",
+          "linkedIn": "https://www.linkedin.com/in/jess-stevenson14/"
+        }
+      ],
+      "quickLink": "https://meet.jit.si/TeamGolfCBUS"
+    },
+    {
+      "id": 8,
+      "name": "team HOTEL",
+      "project": "eLearning Portal",
+      "technologies": "Java, vue.js",
+      "members": [
+        {
+          "member": "Yike Dai",
+          "linkedIn": "https://www.linkedin.com/in/yike-dai/"
+        },
+        {
+          "member": "Tamagne Shiferaw",
+          "linkedIn": "https://www.linkedin.com/in/tamagne-shiferaw-1134281b4/"
+        },
+        {
+          "member": "Jacob Woods",
+          "linkedIn": "https://www.linkedin.com/in/jacob-woods-5471b31b6/"
+        },
+        {
+          "member": "Selam Teklu",
+          "linkedIn": "https://www.linkedin.com/in/selamteklu/"
+        }
+      ],
+      "quickLink": "https://meet.jit.si/TeamHotelCBUS"
+    },
+    {
+      "id": 9,
+      "name": "team INDIA",
+      "project": "Kid’s Wellness Activity App",
+      "technologies": "C#, vue.js",
+      "members": [
+        {
+          "member": "Jordan Nelsen",
+          "linkedIn": "https://www.linkedin.com/in/jordan-nelsen/"
+        },
+        {
+          "member": "William Santos",
+          "linkedIn": "https://www.linkedin.com/in/wasantosfs/"
+        },
+        {
+          "member": "JC Adams",
+          "linkedIn": "https://www.linkedin.com/in/nicholas-j-clayton-adams/"
+        },
+        {
+          "member": "Anna Yeager",
+          "linkedIn": "https://www.linkedin.com/in/anna-n-yeager/"
+        }
+      ],
+      "quickLink": "https://meet.jit.si/TeamIndiaCBUS"
+    },
+    {
+      "id": 10,
+      "name": "team JULIET",
+      "project": "Tournament Hosting",
+      "technologies": "C#, vue.js",
+      "members": [
+        {
+          "member": "Brad McCord",
+          "linkedIn": "https://www.linkedin.com/in/l3rad/"
+        },
+        {
+          "member": "Austin Crumrine",
+          "linkedIn": "https://www.linkedin.com/in/austin-crumrine/"
+        },
+        {
+          "member": "Greg Murphy",
+          "linkedIn": "https://www.linkedin.com/in/gregmurphy57/"
+        },
+        {
+          "member": "Colin Mahan",
+          "linkedIn": "https://www.linkedin.com/in/colin-mahan/"
+        }
+      ],
+      "quickLink": "https://meet.jit.si/TeamJulietCBUS"
+    },
+    {
+      "id": 11,
+      "name": "team KILO",
+      "project": "Comic Book Collection Assistant",
+      "technologies": "C#, vue.js",
+      "members": [
+        {
+          "member": "Justin Duff",
+          "linkedIn": "https://www.linkedin.com/in/jduff/"
+        },
+        {
+          "member": "Leslie Wilson",
+          "linkedIn": "https://www.linkedin.com/in/lesliebertawilson/"
+        },
+        {
+          "member": "Corrin Kocher",
+          "linkedIn": "https://www.linkedin.com/in/corrin-kocher/"
+        },
+        {
+          "member": "Breydon Gates",
+          "linkedIn": "https://www.linkedin.com/in/breydongates/"
+        }
+      ],
+      "quickLink": "https://meet.jit.si/TeamKiloCBUS"
+    },
+    {
+      "id": 12,
+      "name": "team LIMA",
+      "project": "Family Reading Tracker",
+      "technologies": "C#, vue.js",
+      "members": [
+        {
+          "member": "Rene Garcia",
+          "linkedIn": "https://www.linkedin.com/in/rene-garcia-807b21175/"
+        },
+        {
+          "member": "Kip Lexner",
+          "linkedIn": "https://www.linkedin.com/in/charleslexner/"
+        },
+        {
+          "member": "Esaiyas Abrha",
+          "linkedIn": "https://www.linkedin.com/in/esaiyas-abrha/"
+        }
+      ],
+      "quickLink": "https://meet.jit.si/TeamLimaCBUS"
+    },
+    {
+      "id": 13,
+      "name": "team MIKE",
+      "project": "Storage Unit Auctions",
+      "technologies": "C#, vue.js",
+      "members": [
+        {
+          "member": "Clint Eversole",
+          "linkedIn": "https://www.linkedin.com/in/clint-eversole/"
+        },
+        {
+          "member": "Alex Lipinsky",
+          "linkedIn": "https://www.linkedin.com/in/alexlipinsky/"
+        },
+        {
+          "member": "Jaeoon Lee",
+          "linkedIn": "https://www.linkedin.com/in/jaeoon-lee/"
+        }
+      ],
+      "quickLink": "https://meet.jit.si/TeamMikeCBUS"
+    }
+  ]
+}

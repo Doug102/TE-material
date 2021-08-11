@@ -1,0 +1,24 @@
+h5 {
+    font-size: 70px;
+}
+section {
+    background-color: salmon;
+    color: green;
+}
+.lunch {
+    background-color: lightblue;
+    color: purple;
+}
+
+
+h2 {
+    text-decoration: overline;
+}
+.dinner {
+    background-color: indigo;
+ 
+}
+#nextToLast{
+    background-color: lawngreen;
+    font-size: 90px;
+}

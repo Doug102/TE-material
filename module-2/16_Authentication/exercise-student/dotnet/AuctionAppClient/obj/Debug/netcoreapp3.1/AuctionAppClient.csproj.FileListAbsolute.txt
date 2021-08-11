@@ -1,0 +1,15 @@
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\16_Authentication\exercise-student\dotnet\AuctionAppClient\bin\Debug\netcoreapp3.1\AuctionAppClient.exe
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\16_Authentication\exercise-student\dotnet\AuctionAppClient\bin\Debug\netcoreapp3.1\AuctionAppClient.deps.json
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\16_Authentication\exercise-student\dotnet\AuctionAppClient\bin\Debug\netcoreapp3.1\AuctionAppClient.runtimeconfig.json
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\16_Authentication\exercise-student\dotnet\AuctionAppClient\bin\Debug\netcoreapp3.1\AuctionAppClient.runtimeconfig.dev.json
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\16_Authentication\exercise-student\dotnet\AuctionAppClient\bin\Debug\netcoreapp3.1\AuctionAppClient.dll
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\16_Authentication\exercise-student\dotnet\AuctionAppClient\bin\Debug\netcoreapp3.1\AuctionAppClient.pdb
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\16_Authentication\exercise-student\dotnet\AuctionAppClient\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\16_Authentication\exercise-student\dotnet\AuctionAppClient\obj\Debug\netcoreapp3.1\AuctionAppClient.csprojAssemblyReference.cache
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\16_Authentication\exercise-student\dotnet\AuctionAppClient\obj\Debug\netcoreapp3.1\AuctionAppClient.AssemblyInfoInputs.cache
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\16_Authentication\exercise-student\dotnet\AuctionAppClient\obj\Debug\netcoreapp3.1\AuctionAppClient.AssemblyInfo.cs
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\16_Authentication\exercise-student\dotnet\AuctionAppClient\obj\Debug\netcoreapp3.1\AuctionAppClient.csproj.CoreCompileInputs.cache
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\16_Authentication\exercise-student\dotnet\AuctionAppClient\obj\Debug\netcoreapp3.1\AuctionAppClient.csproj.CopyComplete
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\16_Authentication\exercise-student\dotnet\AuctionAppClient\obj\Debug\netcoreapp3.1\AuctionAppClient.dll
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\16_Authentication\exercise-student\dotnet\AuctionAppClient\obj\Debug\netcoreapp3.1\AuctionAppClient.pdb
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\16_Authentication\exercise-student\dotnet\AuctionAppClient\obj\Debug\netcoreapp3.1\AuctionAppClient.genruntimeconfig.cache

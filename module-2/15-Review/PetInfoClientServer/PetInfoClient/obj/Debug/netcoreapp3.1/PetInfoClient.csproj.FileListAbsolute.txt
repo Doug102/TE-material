@@ -1,0 +1,15 @@
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\15-Review\PetInfoClientServer\PetInfoClient\bin\Debug\netcoreapp3.1\PetInfoClient.exe
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\15-Review\PetInfoClientServer\PetInfoClient\bin\Debug\netcoreapp3.1\PetInfoClient.deps.json
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\15-Review\PetInfoClientServer\PetInfoClient\bin\Debug\netcoreapp3.1\PetInfoClient.runtimeconfig.json
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\15-Review\PetInfoClientServer\PetInfoClient\bin\Debug\netcoreapp3.1\PetInfoClient.runtimeconfig.dev.json
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\15-Review\PetInfoClientServer\PetInfoClient\bin\Debug\netcoreapp3.1\PetInfoClient.dll
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\15-Review\PetInfoClientServer\PetInfoClient\bin\Debug\netcoreapp3.1\PetInfoClient.pdb
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\15-Review\PetInfoClientServer\PetInfoClient\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\15-Review\PetInfoClientServer\PetInfoClient\obj\Debug\netcoreapp3.1\PetInfoClient.csprojAssemblyReference.cache
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\15-Review\PetInfoClientServer\PetInfoClient\obj\Debug\netcoreapp3.1\PetInfoClient.AssemblyInfoInputs.cache
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\15-Review\PetInfoClientServer\PetInfoClient\obj\Debug\netcoreapp3.1\PetInfoClient.AssemblyInfo.cs
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\15-Review\PetInfoClientServer\PetInfoClient\obj\Debug\netcoreapp3.1\PetInfoClient.csproj.CoreCompileInputs.cache
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\15-Review\PetInfoClientServer\PetInfoClient\obj\Debug\netcoreapp3.1\PetInfoClient.csproj.CopyComplete
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\15-Review\PetInfoClientServer\PetInfoClient\obj\Debug\netcoreapp3.1\PetInfoClient.dll
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\15-Review\PetInfoClientServer\PetInfoClient\obj\Debug\netcoreapp3.1\PetInfoClient.pdb
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\15-Review\PetInfoClientServer\PetInfoClient\obj\Debug\netcoreapp3.1\PetInfoClient.genruntimeconfig.cache

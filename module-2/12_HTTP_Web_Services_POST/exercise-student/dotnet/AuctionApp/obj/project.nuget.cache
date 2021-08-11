@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AQzfgIyWKUE3F5/cf0G8JDLnB49CAlz1Gooo1/D4HdiC2kp5+aOoB6sfmGK+1GRAAkjX/ofxrWTCVsUAZEyu3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Student\\douglasstauffer-c-sharp-orange\\module-2\\12_HTTP_Web_Services_POST\\exercise-student\\dotnet\\AuctionApp\\AuctionApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Student\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512"
+  ],
+  "logs": []
+}

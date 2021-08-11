@@ -1,0 +1,15 @@
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\11_HTTP_Web_Services_GET\exercise-student\dotnet\AuctionApp\bin\Debug\netcoreapp3.1\AuctionApp.exe
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\11_HTTP_Web_Services_GET\exercise-student\dotnet\AuctionApp\bin\Debug\netcoreapp3.1\AuctionApp.deps.json
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\11_HTTP_Web_Services_GET\exercise-student\dotnet\AuctionApp\bin\Debug\netcoreapp3.1\AuctionApp.runtimeconfig.json
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\11_HTTP_Web_Services_GET\exercise-student\dotnet\AuctionApp\bin\Debug\netcoreapp3.1\AuctionApp.runtimeconfig.dev.json
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\11_HTTP_Web_Services_GET\exercise-student\dotnet\AuctionApp\bin\Debug\netcoreapp3.1\AuctionApp.dll
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\11_HTTP_Web_Services_GET\exercise-student\dotnet\AuctionApp\bin\Debug\netcoreapp3.1\AuctionApp.pdb
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\11_HTTP_Web_Services_GET\exercise-student\dotnet\AuctionApp\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\11_HTTP_Web_Services_GET\exercise-student\dotnet\AuctionApp\obj\Debug\netcoreapp3.1\AuctionApp.csprojAssemblyReference.cache
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\11_HTTP_Web_Services_GET\exercise-student\dotnet\AuctionApp\obj\Debug\netcoreapp3.1\AuctionApp.AssemblyInfoInputs.cache
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\11_HTTP_Web_Services_GET\exercise-student\dotnet\AuctionApp\obj\Debug\netcoreapp3.1\AuctionApp.AssemblyInfo.cs
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\11_HTTP_Web_Services_GET\exercise-student\dotnet\AuctionApp\obj\Debug\netcoreapp3.1\AuctionApp.csproj.CoreCompileInputs.cache
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\11_HTTP_Web_Services_GET\exercise-student\dotnet\AuctionApp\obj\Debug\netcoreapp3.1\AuctionApp.csproj.CopyComplete
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\11_HTTP_Web_Services_GET\exercise-student\dotnet\AuctionApp\obj\Debug\netcoreapp3.1\AuctionApp.dll
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\11_HTTP_Web_Services_GET\exercise-student\dotnet\AuctionApp\obj\Debug\netcoreapp3.1\AuctionApp.pdb
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-2\11_HTTP_Web_Services_GET\exercise-student\dotnet\AuctionApp\obj\Debug\netcoreapp3.1\AuctionApp.genruntimeconfig.cache
