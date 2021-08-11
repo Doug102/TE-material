@@ -1,0 +1,13 @@
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\05_Command_Line_Programs\exercise-student\dotnet\DecimalToBinary\bin\Debug\netcoreapp3.1\DecimalToBinary.exe
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\05_Command_Line_Programs\exercise-student\dotnet\DecimalToBinary\bin\Debug\netcoreapp3.1\DecimalToBinary.deps.json
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\05_Command_Line_Programs\exercise-student\dotnet\DecimalToBinary\bin\Debug\netcoreapp3.1\DecimalToBinary.runtimeconfig.json
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\05_Command_Line_Programs\exercise-student\dotnet\DecimalToBinary\bin\Debug\netcoreapp3.1\DecimalToBinary.runtimeconfig.dev.json
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\05_Command_Line_Programs\exercise-student\dotnet\DecimalToBinary\bin\Debug\netcoreapp3.1\DecimalToBinary.dll
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\05_Command_Line_Programs\exercise-student\dotnet\DecimalToBinary\bin\Debug\netcoreapp3.1\DecimalToBinary.pdb
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\05_Command_Line_Programs\exercise-student\dotnet\DecimalToBinary\obj\Debug\netcoreapp3.1\DecimalToBinary.csprojAssemblyReference.cache
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\05_Command_Line_Programs\exercise-student\dotnet\DecimalToBinary\obj\Debug\netcoreapp3.1\DecimalToBinary.AssemblyInfoInputs.cache
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\05_Command_Line_Programs\exercise-student\dotnet\DecimalToBinary\obj\Debug\netcoreapp3.1\DecimalToBinary.AssemblyInfo.cs
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\05_Command_Line_Programs\exercise-student\dotnet\DecimalToBinary\obj\Debug\netcoreapp3.1\DecimalToBinary.csproj.CoreCompileInputs.cache
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\05_Command_Line_Programs\exercise-student\dotnet\DecimalToBinary\obj\Debug\netcoreapp3.1\DecimalToBinary.dll
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\05_Command_Line_Programs\exercise-student\dotnet\DecimalToBinary\obj\Debug\netcoreapp3.1\DecimalToBinary.pdb
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\05_Command_Line_Programs\exercise-student\dotnet\DecimalToBinary\obj\Debug\netcoreapp3.1\DecimalToBinary.genruntimeconfig.cache

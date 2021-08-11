@@ -1,0 +1,13 @@
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\05_Command_Line_Programs\exercise-student\dotnet\LinearConvert\bin\Debug\netcoreapp3.1\LinearConvert.exe
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\05_Command_Line_Programs\exercise-student\dotnet\LinearConvert\bin\Debug\netcoreapp3.1\LinearConvert.deps.json
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\05_Command_Line_Programs\exercise-student\dotnet\LinearConvert\bin\Debug\netcoreapp3.1\LinearConvert.runtimeconfig.json
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\05_Command_Line_Programs\exercise-student\dotnet\LinearConvert\bin\Debug\netcoreapp3.1\LinearConvert.runtimeconfig.dev.json
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\05_Command_Line_Programs\exercise-student\dotnet\LinearConvert\bin\Debug\netcoreapp3.1\LinearConvert.dll
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\05_Command_Line_Programs\exercise-student\dotnet\LinearConvert\bin\Debug\netcoreapp3.1\LinearConvert.pdb
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\05_Command_Line_Programs\exercise-student\dotnet\LinearConvert\obj\Debug\netcoreapp3.1\LinearConvert.csprojAssemblyReference.cache
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\05_Command_Line_Programs\exercise-student\dotnet\LinearConvert\obj\Debug\netcoreapp3.1\LinearConvert.AssemblyInfoInputs.cache
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\05_Command_Line_Programs\exercise-student\dotnet\LinearConvert\obj\Debug\netcoreapp3.1\LinearConvert.AssemblyInfo.cs
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\05_Command_Line_Programs\exercise-student\dotnet\LinearConvert\obj\Debug\netcoreapp3.1\LinearConvert.csproj.CoreCompileInputs.cache
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\05_Command_Line_Programs\exercise-student\dotnet\LinearConvert\obj\Debug\netcoreapp3.1\LinearConvert.dll
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\05_Command_Line_Programs\exercise-student\dotnet\LinearConvert\obj\Debug\netcoreapp3.1\LinearConvert.pdb
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\05_Command_Line_Programs\exercise-student\dotnet\LinearConvert\obj\Debug\netcoreapp3.1\LinearConvert.genruntimeconfig.cache

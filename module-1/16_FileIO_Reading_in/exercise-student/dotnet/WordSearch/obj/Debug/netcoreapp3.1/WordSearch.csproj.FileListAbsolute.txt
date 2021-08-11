@@ -1,0 +1,13 @@
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\16_FileIO_Reading_in\exercise-student\dotnet\WordSearch\bin\Debug\netcoreapp3.1\WordSearch.exe
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\16_FileIO_Reading_in\exercise-student\dotnet\WordSearch\bin\Debug\netcoreapp3.1\WordSearch.deps.json
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\16_FileIO_Reading_in\exercise-student\dotnet\WordSearch\bin\Debug\netcoreapp3.1\WordSearch.runtimeconfig.json
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\16_FileIO_Reading_in\exercise-student\dotnet\WordSearch\bin\Debug\netcoreapp3.1\WordSearch.runtimeconfig.dev.json
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\16_FileIO_Reading_in\exercise-student\dotnet\WordSearch\bin\Debug\netcoreapp3.1\WordSearch.dll
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\16_FileIO_Reading_in\exercise-student\dotnet\WordSearch\bin\Debug\netcoreapp3.1\WordSearch.pdb
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\16_FileIO_Reading_in\exercise-student\dotnet\WordSearch\obj\Debug\netcoreapp3.1\WordSearch.csprojAssemblyReference.cache
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\16_FileIO_Reading_in\exercise-student\dotnet\WordSearch\obj\Debug\netcoreapp3.1\WordSearch.AssemblyInfoInputs.cache
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\16_FileIO_Reading_in\exercise-student\dotnet\WordSearch\obj\Debug\netcoreapp3.1\WordSearch.AssemblyInfo.cs
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\16_FileIO_Reading_in\exercise-student\dotnet\WordSearch\obj\Debug\netcoreapp3.1\WordSearch.csproj.CoreCompileInputs.cache
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\16_FileIO_Reading_in\exercise-student\dotnet\WordSearch\obj\Debug\netcoreapp3.1\WordSearch.dll
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\16_FileIO_Reading_in\exercise-student\dotnet\WordSearch\obj\Debug\netcoreapp3.1\WordSearch.pdb
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\16_FileIO_Reading_in\exercise-student\dotnet\WordSearch\obj\Debug\netcoreapp3.1\WordSearch.genruntimeconfig.cache

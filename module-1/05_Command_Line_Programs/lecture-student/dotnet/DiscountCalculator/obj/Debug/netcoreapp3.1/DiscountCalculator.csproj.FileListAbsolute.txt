@@ -1,0 +1,13 @@
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\05_Command_Line_Programs\lecture-student\dotnet\DiscountCalculator\bin\Debug\netcoreapp3.1\DiscountCalculator.exe
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\05_Command_Line_Programs\lecture-student\dotnet\DiscountCalculator\bin\Debug\netcoreapp3.1\DiscountCalculator.deps.json
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\05_Command_Line_Programs\lecture-student\dotnet\DiscountCalculator\bin\Debug\netcoreapp3.1\DiscountCalculator.runtimeconfig.json
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\05_Command_Line_Programs\lecture-student\dotnet\DiscountCalculator\bin\Debug\netcoreapp3.1\DiscountCalculator.runtimeconfig.dev.json
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\05_Command_Line_Programs\lecture-student\dotnet\DiscountCalculator\bin\Debug\netcoreapp3.1\DiscountCalculator.dll
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\05_Command_Line_Programs\lecture-student\dotnet\DiscountCalculator\bin\Debug\netcoreapp3.1\DiscountCalculator.pdb
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\05_Command_Line_Programs\lecture-student\dotnet\DiscountCalculator\obj\Debug\netcoreapp3.1\DiscountCalculator.csprojAssemblyReference.cache
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\05_Command_Line_Programs\lecture-student\dotnet\DiscountCalculator\obj\Debug\netcoreapp3.1\DiscountCalculator.AssemblyInfoInputs.cache
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\05_Command_Line_Programs\lecture-student\dotnet\DiscountCalculator\obj\Debug\netcoreapp3.1\DiscountCalculator.AssemblyInfo.cs
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\05_Command_Line_Programs\lecture-student\dotnet\DiscountCalculator\obj\Debug\netcoreapp3.1\DiscountCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\05_Command_Line_Programs\lecture-student\dotnet\DiscountCalculator\obj\Debug\netcoreapp3.1\DiscountCalculator.dll
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\05_Command_Line_Programs\lecture-student\dotnet\DiscountCalculator\obj\Debug\netcoreapp3.1\DiscountCalculator.pdb
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\05_Command_Line_Programs\lecture-student\dotnet\DiscountCalculator\obj\Debug\netcoreapp3.1\DiscountCalculator.genruntimeconfig.cache

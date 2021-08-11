@@ -1,0 +1,10 @@
+Java is an IEEE top 10 langauge with a Spectrum ranking of 100
+C is an IEEE top 10 langauge with a Spectrum ranking of 99.9
+C++ is an IEEE top 10 langauge with a Spectrum ranking of 99.4
+Python is an IEEE top 10 langauge with a Spectrum ranking of 96.5
+C# is an IEEE top 10 langauge with a Spectrum ranking of 91.3
+R is an IEEE top 10 langauge with a Spectrum ranking of 84.8
+PHP is an IEEE top 10 langauge with a Spectrum ranking of 84.5
+JavaScript is an IEEE top 10 langauge with a Spectrum ranking of 83
+Ruby is an IEEE top 10 langauge with a Spectrum ranking of 76.2
+Matlab is an IEEE top 10 langauge with a Spectrum ranking of 72.4

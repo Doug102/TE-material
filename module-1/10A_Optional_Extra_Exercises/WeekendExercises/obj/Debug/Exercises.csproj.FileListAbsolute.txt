@@ -1,0 +1,6 @@
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\10A_Optional_Extra_Exercises\WeekendExercises\bin\Debug\Exercises.dll
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\10A_Optional_Extra_Exercises\WeekendExercises\bin\Debug\Exercises.pdb
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\10A_Optional_Extra_Exercises\WeekendExercises\obj\Debug\Exercises.csprojAssemblyReference.cache
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\10A_Optional_Extra_Exercises\WeekendExercises\obj\Debug\Exercises.csproj.CoreCompileInputs.cache
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\10A_Optional_Extra_Exercises\WeekendExercises\obj\Debug\Exercises.dll
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\10A_Optional_Extra_Exercises\WeekendExercises\obj\Debug\Exercises.pdb

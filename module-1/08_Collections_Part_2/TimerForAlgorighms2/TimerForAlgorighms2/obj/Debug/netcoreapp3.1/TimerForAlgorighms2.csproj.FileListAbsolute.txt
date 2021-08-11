@@ -1,0 +1,13 @@
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\08_Collections_Part_2\TimerForAlgorighms2\TimerForAlgorighms2\bin\Debug\netcoreapp3.1\TimerForAlgorighms2.exe
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\08_Collections_Part_2\TimerForAlgorighms2\TimerForAlgorighms2\bin\Debug\netcoreapp3.1\TimerForAlgorighms2.deps.json
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\08_Collections_Part_2\TimerForAlgorighms2\TimerForAlgorighms2\bin\Debug\netcoreapp3.1\TimerForAlgorighms2.runtimeconfig.json
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\08_Collections_Part_2\TimerForAlgorighms2\TimerForAlgorighms2\bin\Debug\netcoreapp3.1\TimerForAlgorighms2.runtimeconfig.dev.json
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\08_Collections_Part_2\TimerForAlgorighms2\TimerForAlgorighms2\bin\Debug\netcoreapp3.1\TimerForAlgorighms2.dll
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\08_Collections_Part_2\TimerForAlgorighms2\TimerForAlgorighms2\bin\Debug\netcoreapp3.1\TimerForAlgorighms2.pdb
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\08_Collections_Part_2\TimerForAlgorighms2\TimerForAlgorighms2\obj\Debug\netcoreapp3.1\TimerForAlgorighms2.csprojAssemblyReference.cache
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\08_Collections_Part_2\TimerForAlgorighms2\TimerForAlgorighms2\obj\Debug\netcoreapp3.1\TimerForAlgorighms2.AssemblyInfoInputs.cache
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\08_Collections_Part_2\TimerForAlgorighms2\TimerForAlgorighms2\obj\Debug\netcoreapp3.1\TimerForAlgorighms2.AssemblyInfo.cs
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\08_Collections_Part_2\TimerForAlgorighms2\TimerForAlgorighms2\obj\Debug\netcoreapp3.1\TimerForAlgorighms2.csproj.CoreCompileInputs.cache
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\08_Collections_Part_2\TimerForAlgorighms2\TimerForAlgorighms2\obj\Debug\netcoreapp3.1\TimerForAlgorighms2.dll
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\08_Collections_Part_2\TimerForAlgorighms2\TimerForAlgorighms2\obj\Debug\netcoreapp3.1\TimerForAlgorighms2.pdb
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\08_Collections_Part_2\TimerForAlgorighms2\TimerForAlgorighms2\obj\Debug\netcoreapp3.1\TimerForAlgorighms2.genruntimeconfig.cache

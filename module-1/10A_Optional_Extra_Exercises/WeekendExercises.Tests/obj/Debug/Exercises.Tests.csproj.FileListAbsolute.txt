@@ -1,0 +1,10 @@
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\10A_Optional_Extra_Exercises\WeekendExercises.Tests\bin\Debug\WeekendExercises.Tests.dll
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\10A_Optional_Extra_Exercises\WeekendExercises.Tests\bin\Debug\WeekendExercises.Tests.pdb
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\10A_Optional_Extra_Exercises\WeekendExercises.Tests\bin\Debug\Exercises.dll
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\10A_Optional_Extra_Exercises\WeekendExercises.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\10A_Optional_Extra_Exercises\WeekendExercises.Tests\bin\Debug\Exercises.pdb
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\10A_Optional_Extra_Exercises\WeekendExercises.Tests\obj\Debug\Exercises.Tests.csprojAssemblyReference.cache
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\10A_Optional_Extra_Exercises\WeekendExercises.Tests\obj\Debug\Exercises.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\10A_Optional_Extra_Exercises\WeekendExercises.Tests\obj\Debug\Exercises.Tests.csproj.CopyComplete
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\10A_Optional_Extra_Exercises\WeekendExercises.Tests\obj\Debug\WeekendExercises.Tests.dll
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\10A_Optional_Extra_Exercises\WeekendExercises.Tests\obj\Debug\WeekendExercises.Tests.pdb

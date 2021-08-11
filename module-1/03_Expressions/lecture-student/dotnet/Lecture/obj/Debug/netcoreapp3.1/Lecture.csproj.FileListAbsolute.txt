@@ -1,0 +1,13 @@
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\03_Expressions\lecture-student\dotnet\Lecture\bin\Debug\netcoreapp3.1\Lecture.exe
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\03_Expressions\lecture-student\dotnet\Lecture\bin\Debug\netcoreapp3.1\Lecture.deps.json
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\03_Expressions\lecture-student\dotnet\Lecture\bin\Debug\netcoreapp3.1\Lecture.runtimeconfig.json
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\03_Expressions\lecture-student\dotnet\Lecture\bin\Debug\netcoreapp3.1\Lecture.runtimeconfig.dev.json
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\03_Expressions\lecture-student\dotnet\Lecture\bin\Debug\netcoreapp3.1\Lecture.dll
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\03_Expressions\lecture-student\dotnet\Lecture\bin\Debug\netcoreapp3.1\Lecture.pdb
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\03_Expressions\lecture-student\dotnet\Lecture\obj\Debug\netcoreapp3.1\Lecture.csprojAssemblyReference.cache
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\03_Expressions\lecture-student\dotnet\Lecture\obj\Debug\netcoreapp3.1\Lecture.AssemblyInfoInputs.cache
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\03_Expressions\lecture-student\dotnet\Lecture\obj\Debug\netcoreapp3.1\Lecture.AssemblyInfo.cs
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\03_Expressions\lecture-student\dotnet\Lecture\obj\Debug\netcoreapp3.1\Lecture.csproj.CoreCompileInputs.cache
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\03_Expressions\lecture-student\dotnet\Lecture\obj\Debug\netcoreapp3.1\Lecture.dll
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\03_Expressions\lecture-student\dotnet\Lecture\obj\Debug\netcoreapp3.1\Lecture.pdb
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\03_Expressions\lecture-student\dotnet\Lecture\obj\Debug\netcoreapp3.1\Lecture.genruntimeconfig.cache

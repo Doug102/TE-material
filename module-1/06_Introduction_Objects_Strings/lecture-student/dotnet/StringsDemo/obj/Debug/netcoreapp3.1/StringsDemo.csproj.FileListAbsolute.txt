@@ -1,0 +1,13 @@
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\06_Introduction_Objects_Strings\lecture-student\dotnet\StringsDemo\bin\Debug\netcoreapp3.1\StringsDemo.exe
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\06_Introduction_Objects_Strings\lecture-student\dotnet\StringsDemo\bin\Debug\netcoreapp3.1\StringsDemo.deps.json
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\06_Introduction_Objects_Strings\lecture-student\dotnet\StringsDemo\bin\Debug\netcoreapp3.1\StringsDemo.runtimeconfig.json
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\06_Introduction_Objects_Strings\lecture-student\dotnet\StringsDemo\bin\Debug\netcoreapp3.1\StringsDemo.runtimeconfig.dev.json
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\06_Introduction_Objects_Strings\lecture-student\dotnet\StringsDemo\bin\Debug\netcoreapp3.1\StringsDemo.dll
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\06_Introduction_Objects_Strings\lecture-student\dotnet\StringsDemo\bin\Debug\netcoreapp3.1\StringsDemo.pdb
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\06_Introduction_Objects_Strings\lecture-student\dotnet\StringsDemo\obj\Debug\netcoreapp3.1\StringsDemo.csprojAssemblyReference.cache
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\06_Introduction_Objects_Strings\lecture-student\dotnet\StringsDemo\obj\Debug\netcoreapp3.1\StringsDemo.AssemblyInfoInputs.cache
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\06_Introduction_Objects_Strings\lecture-student\dotnet\StringsDemo\obj\Debug\netcoreapp3.1\StringsDemo.AssemblyInfo.cs
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\06_Introduction_Objects_Strings\lecture-student\dotnet\StringsDemo\obj\Debug\netcoreapp3.1\StringsDemo.csproj.CoreCompileInputs.cache
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\06_Introduction_Objects_Strings\lecture-student\dotnet\StringsDemo\obj\Debug\netcoreapp3.1\StringsDemo.dll
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\06_Introduction_Objects_Strings\lecture-student\dotnet\StringsDemo\obj\Debug\netcoreapp3.1\StringsDemo.pdb
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\06_Introduction_Objects_Strings\lecture-student\dotnet\StringsDemo\obj\Debug\netcoreapp3.1\StringsDemo.genruntimeconfig.cache

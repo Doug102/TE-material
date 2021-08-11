@@ -1,0 +1,13 @@
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\02_Variables_Data_Types\lecture-final\dotnet\Variables-And-Datatypes\bin\Debug\netcoreapp3.1\Variables-And-Datatypes.exe
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\02_Variables_Data_Types\lecture-final\dotnet\Variables-And-Datatypes\bin\Debug\netcoreapp3.1\Variables-And-Datatypes.deps.json
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\02_Variables_Data_Types\lecture-final\dotnet\Variables-And-Datatypes\bin\Debug\netcoreapp3.1\Variables-And-Datatypes.runtimeconfig.json
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\02_Variables_Data_Types\lecture-final\dotnet\Variables-And-Datatypes\bin\Debug\netcoreapp3.1\Variables-And-Datatypes.runtimeconfig.dev.json
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\02_Variables_Data_Types\lecture-final\dotnet\Variables-And-Datatypes\bin\Debug\netcoreapp3.1\Variables-And-Datatypes.dll
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\02_Variables_Data_Types\lecture-final\dotnet\Variables-And-Datatypes\bin\Debug\netcoreapp3.1\Variables-And-Datatypes.pdb
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\02_Variables_Data_Types\lecture-final\dotnet\Variables-And-Datatypes\obj\Debug\netcoreapp3.1\Variables-And-Datatypes.csprojAssemblyReference.cache
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\02_Variables_Data_Types\lecture-final\dotnet\Variables-And-Datatypes\obj\Debug\netcoreapp3.1\Variables-And-Datatypes.AssemblyInfoInputs.cache
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\02_Variables_Data_Types\lecture-final\dotnet\Variables-And-Datatypes\obj\Debug\netcoreapp3.1\Variables-And-Datatypes.AssemblyInfo.cs
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\02_Variables_Data_Types\lecture-final\dotnet\Variables-And-Datatypes\obj\Debug\netcoreapp3.1\Variables-And-Datatypes.csproj.CoreCompileInputs.cache
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\02_Variables_Data_Types\lecture-final\dotnet\Variables-And-Datatypes\obj\Debug\netcoreapp3.1\Variables-And-Datatypes.dll
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\02_Variables_Data_Types\lecture-final\dotnet\Variables-And-Datatypes\obj\Debug\netcoreapp3.1\Variables-And-Datatypes.pdb
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\02_Variables_Data_Types\lecture-final\dotnet\Variables-And-Datatypes\obj\Debug\netcoreapp3.1\Variables-And-Datatypes.genruntimeconfig.cache

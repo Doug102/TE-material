@@ -1,0 +1,13 @@
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\07_Collections_Part_1\lecture-student\dotnet\CollectionsPart1Lecture\bin\Debug\netcoreapp3.1\CollectionsPart1Lecture.exe
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\07_Collections_Part_1\lecture-student\dotnet\CollectionsPart1Lecture\bin\Debug\netcoreapp3.1\CollectionsPart1Lecture.deps.json
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\07_Collections_Part_1\lecture-student\dotnet\CollectionsPart1Lecture\bin\Debug\netcoreapp3.1\CollectionsPart1Lecture.runtimeconfig.json
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\07_Collections_Part_1\lecture-student\dotnet\CollectionsPart1Lecture\bin\Debug\netcoreapp3.1\CollectionsPart1Lecture.runtimeconfig.dev.json
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\07_Collections_Part_1\lecture-student\dotnet\CollectionsPart1Lecture\bin\Debug\netcoreapp3.1\CollectionsPart1Lecture.dll
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\07_Collections_Part_1\lecture-student\dotnet\CollectionsPart1Lecture\bin\Debug\netcoreapp3.1\CollectionsPart1Lecture.pdb
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\07_Collections_Part_1\lecture-student\dotnet\CollectionsPart1Lecture\obj\Debug\netcoreapp3.1\CollectionsPart1Lecture.csprojAssemblyReference.cache
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\07_Collections_Part_1\lecture-student\dotnet\CollectionsPart1Lecture\obj\Debug\netcoreapp3.1\CollectionsPart1Lecture.AssemblyInfoInputs.cache
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\07_Collections_Part_1\lecture-student\dotnet\CollectionsPart1Lecture\obj\Debug\netcoreapp3.1\CollectionsPart1Lecture.AssemblyInfo.cs
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\07_Collections_Part_1\lecture-student\dotnet\CollectionsPart1Lecture\obj\Debug\netcoreapp3.1\CollectionsPart1Lecture.csproj.CoreCompileInputs.cache
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\07_Collections_Part_1\lecture-student\dotnet\CollectionsPart1Lecture\obj\Debug\netcoreapp3.1\CollectionsPart1Lecture.dll
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\07_Collections_Part_1\lecture-student\dotnet\CollectionsPart1Lecture\obj\Debug\netcoreapp3.1\CollectionsPart1Lecture.pdb
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\07_Collections_Part_1\lecture-student\dotnet\CollectionsPart1Lecture\obj\Debug\netcoreapp3.1\CollectionsPart1Lecture.genruntimeconfig.cache

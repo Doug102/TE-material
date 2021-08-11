@@ -1,0 +1,13 @@
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\16_FileIO_Reading_in\exercise-student\dotnet\QuizMaker\bin\Debug\netcoreapp3.1\QuizMaker.exe
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\16_FileIO_Reading_in\exercise-student\dotnet\QuizMaker\bin\Debug\netcoreapp3.1\QuizMaker.deps.json
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\16_FileIO_Reading_in\exercise-student\dotnet\QuizMaker\bin\Debug\netcoreapp3.1\QuizMaker.runtimeconfig.json
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\16_FileIO_Reading_in\exercise-student\dotnet\QuizMaker\bin\Debug\netcoreapp3.1\QuizMaker.runtimeconfig.dev.json
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\16_FileIO_Reading_in\exercise-student\dotnet\QuizMaker\bin\Debug\netcoreapp3.1\QuizMaker.dll
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\16_FileIO_Reading_in\exercise-student\dotnet\QuizMaker\bin\Debug\netcoreapp3.1\QuizMaker.pdb
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\16_FileIO_Reading_in\exercise-student\dotnet\QuizMaker\obj\Debug\netcoreapp3.1\QuizMaker.csprojAssemblyReference.cache
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\16_FileIO_Reading_in\exercise-student\dotnet\QuizMaker\obj\Debug\netcoreapp3.1\QuizMaker.AssemblyInfoInputs.cache
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\16_FileIO_Reading_in\exercise-student\dotnet\QuizMaker\obj\Debug\netcoreapp3.1\QuizMaker.AssemblyInfo.cs
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\16_FileIO_Reading_in\exercise-student\dotnet\QuizMaker\obj\Debug\netcoreapp3.1\QuizMaker.csproj.CoreCompileInputs.cache
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\16_FileIO_Reading_in\exercise-student\dotnet\QuizMaker\obj\Debug\netcoreapp3.1\QuizMaker.dll
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\16_FileIO_Reading_in\exercise-student\dotnet\QuizMaker\obj\Debug\netcoreapp3.1\QuizMaker.pdb
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\16_FileIO_Reading_in\exercise-student\dotnet\QuizMaker\obj\Debug\netcoreapp3.1\QuizMaker.genruntimeconfig.cache

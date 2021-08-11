@@ -1,0 +1,13 @@
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\17_Review\PetInfo\PetInfo\bin\Debug\netcoreapp3.1\PetInfo.exe
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\17_Review\PetInfo\PetInfo\bin\Debug\netcoreapp3.1\PetInfo.deps.json
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\17_Review\PetInfo\PetInfo\bin\Debug\netcoreapp3.1\PetInfo.runtimeconfig.json
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\17_Review\PetInfo\PetInfo\bin\Debug\netcoreapp3.1\PetInfo.runtimeconfig.dev.json
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\17_Review\PetInfo\PetInfo\bin\Debug\netcoreapp3.1\PetInfo.dll
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\17_Review\PetInfo\PetInfo\bin\Debug\netcoreapp3.1\PetInfo.pdb
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\17_Review\PetInfo\PetInfo\obj\Debug\netcoreapp3.1\PetInfo.csprojAssemblyReference.cache
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\17_Review\PetInfo\PetInfo\obj\Debug\netcoreapp3.1\PetInfo.AssemblyInfoInputs.cache
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\17_Review\PetInfo\PetInfo\obj\Debug\netcoreapp3.1\PetInfo.AssemblyInfo.cs
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\17_Review\PetInfo\PetInfo\obj\Debug\netcoreapp3.1\PetInfo.csproj.CoreCompileInputs.cache
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\17_Review\PetInfo\PetInfo\obj\Debug\netcoreapp3.1\PetInfo.dll
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\17_Review\PetInfo\PetInfo\obj\Debug\netcoreapp3.1\PetInfo.pdb
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\17_Review\PetInfo\PetInfo\obj\Debug\netcoreapp3.1\PetInfo.genruntimeconfig.cache

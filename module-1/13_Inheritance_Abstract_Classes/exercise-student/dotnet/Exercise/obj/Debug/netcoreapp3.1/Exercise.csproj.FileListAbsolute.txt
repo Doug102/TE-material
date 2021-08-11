@@ -1,0 +1,13 @@
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\13_Inheritance_Abstract_Classes\exercise-student\dotnet\Exercise\bin\Debug\netcoreapp3.1\Exercise.exe
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\13_Inheritance_Abstract_Classes\exercise-student\dotnet\Exercise\bin\Debug\netcoreapp3.1\Exercise.deps.json
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\13_Inheritance_Abstract_Classes\exercise-student\dotnet\Exercise\bin\Debug\netcoreapp3.1\Exercise.runtimeconfig.json
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\13_Inheritance_Abstract_Classes\exercise-student\dotnet\Exercise\bin\Debug\netcoreapp3.1\Exercise.runtimeconfig.dev.json
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\13_Inheritance_Abstract_Classes\exercise-student\dotnet\Exercise\bin\Debug\netcoreapp3.1\Exercise.dll
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\13_Inheritance_Abstract_Classes\exercise-student\dotnet\Exercise\bin\Debug\netcoreapp3.1\Exercise.pdb
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\13_Inheritance_Abstract_Classes\exercise-student\dotnet\Exercise\obj\Debug\netcoreapp3.1\Exercise.csprojAssemblyReference.cache
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\13_Inheritance_Abstract_Classes\exercise-student\dotnet\Exercise\obj\Debug\netcoreapp3.1\Exercise.AssemblyInfoInputs.cache
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\13_Inheritance_Abstract_Classes\exercise-student\dotnet\Exercise\obj\Debug\netcoreapp3.1\Exercise.AssemblyInfo.cs
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\13_Inheritance_Abstract_Classes\exercise-student\dotnet\Exercise\obj\Debug\netcoreapp3.1\Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\13_Inheritance_Abstract_Classes\exercise-student\dotnet\Exercise\obj\Debug\netcoreapp3.1\Exercise.dll
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\13_Inheritance_Abstract_Classes\exercise-student\dotnet\Exercise\obj\Debug\netcoreapp3.1\Exercise.pdb
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\13_Inheritance_Abstract_Classes\exercise-student\dotnet\Exercise\obj\Debug\netcoreapp3.1\Exercise.genruntimeconfig.cache

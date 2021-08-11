@@ -1,0 +1,13 @@
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\09_Classes_Encapsulation\exercise-student\dotnet\Exercises\bin\Debug\netcoreapp3.1\Exercises.exe
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\09_Classes_Encapsulation\exercise-student\dotnet\Exercises\bin\Debug\netcoreapp3.1\Exercises.deps.json
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\09_Classes_Encapsulation\exercise-student\dotnet\Exercises\bin\Debug\netcoreapp3.1\Exercises.runtimeconfig.json
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\09_Classes_Encapsulation\exercise-student\dotnet\Exercises\bin\Debug\netcoreapp3.1\Exercises.runtimeconfig.dev.json
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\09_Classes_Encapsulation\exercise-student\dotnet\Exercises\bin\Debug\netcoreapp3.1\Exercises.dll
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\09_Classes_Encapsulation\exercise-student\dotnet\Exercises\bin\Debug\netcoreapp3.1\Exercises.pdb
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\09_Classes_Encapsulation\exercise-student\dotnet\Exercises\obj\Debug\netcoreapp3.1\Exercises.csprojAssemblyReference.cache
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\09_Classes_Encapsulation\exercise-student\dotnet\Exercises\obj\Debug\netcoreapp3.1\Exercises.AssemblyInfoInputs.cache
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\09_Classes_Encapsulation\exercise-student\dotnet\Exercises\obj\Debug\netcoreapp3.1\Exercises.AssemblyInfo.cs
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\09_Classes_Encapsulation\exercise-student\dotnet\Exercises\obj\Debug\netcoreapp3.1\Exercises.csproj.CoreCompileInputs.cache
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\09_Classes_Encapsulation\exercise-student\dotnet\Exercises\obj\Debug\netcoreapp3.1\Exercises.dll
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\09_Classes_Encapsulation\exercise-student\dotnet\Exercises\obj\Debug\netcoreapp3.1\Exercises.pdb
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\09_Classes_Encapsulation\exercise-student\dotnet\Exercises\obj\Debug\netcoreapp3.1\Exercises.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "H3wL9m7JlkVdBlKOoMVg1nVMwuruA7h2M45/KOzEY2avnMDEO5bdCT5/msB2UAD9/Jhf0M1fy0tgr2MomAvCOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Student\\douglasstauffer-c-sharp-orange\\module-1\\17_FileIO_Writing_out\\lecture-final\\dotnet\\Lecture\\Lecture.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Student\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Student\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\Student\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

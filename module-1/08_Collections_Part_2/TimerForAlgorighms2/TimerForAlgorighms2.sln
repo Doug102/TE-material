@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimerForAlgorighms2", "TimerForAlgorighms2\TimerForAlgorighms2.csproj", "{71FE5BEB-61F6-4C21-BF62-DA3DA0E77E3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71FE5BEB-61F6-4C21-BF62-DA3DA0E77E3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71FE5BEB-61F6-4C21-BF62-DA3DA0E77E3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71FE5BEB-61F6-4C21-BF62-DA3DA0E77E3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71FE5BEB-61F6-4C21-BF62-DA3DA0E77E3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1AB42DB-7D6D-4BD9-83FA-7C3C29C8A0D0}
+	EndGlobalSection
+EndGlobal

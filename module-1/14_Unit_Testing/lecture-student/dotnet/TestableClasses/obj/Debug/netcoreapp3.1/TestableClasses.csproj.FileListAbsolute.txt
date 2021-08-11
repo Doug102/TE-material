@@ -1,0 +1,13 @@
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\14_Unit_Testing\lecture-student\dotnet\TestableClasses\bin\Debug\netcoreapp3.1\TestableClasses.exe
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\14_Unit_Testing\lecture-student\dotnet\TestableClasses\bin\Debug\netcoreapp3.1\TestableClasses.deps.json
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\14_Unit_Testing\lecture-student\dotnet\TestableClasses\bin\Debug\netcoreapp3.1\TestableClasses.runtimeconfig.json
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\14_Unit_Testing\lecture-student\dotnet\TestableClasses\bin\Debug\netcoreapp3.1\TestableClasses.runtimeconfig.dev.json
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\14_Unit_Testing\lecture-student\dotnet\TestableClasses\bin\Debug\netcoreapp3.1\TestableClasses.dll
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\14_Unit_Testing\lecture-student\dotnet\TestableClasses\bin\Debug\netcoreapp3.1\TestableClasses.pdb
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\14_Unit_Testing\lecture-student\dotnet\TestableClasses\obj\Debug\netcoreapp3.1\TestableClasses.csprojAssemblyReference.cache
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\14_Unit_Testing\lecture-student\dotnet\TestableClasses\obj\Debug\netcoreapp3.1\TestableClasses.AssemblyInfoInputs.cache
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\14_Unit_Testing\lecture-student\dotnet\TestableClasses\obj\Debug\netcoreapp3.1\TestableClasses.AssemblyInfo.cs
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\14_Unit_Testing\lecture-student\dotnet\TestableClasses\obj\Debug\netcoreapp3.1\TestableClasses.csproj.CoreCompileInputs.cache
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\14_Unit_Testing\lecture-student\dotnet\TestableClasses\obj\Debug\netcoreapp3.1\TestableClasses.dll
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\14_Unit_Testing\lecture-student\dotnet\TestableClasses\obj\Debug\netcoreapp3.1\TestableClasses.pdb
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\14_Unit_Testing\lecture-student\dotnet\TestableClasses\obj\Debug\netcoreapp3.1\TestableClasses.genruntimeconfig.cache

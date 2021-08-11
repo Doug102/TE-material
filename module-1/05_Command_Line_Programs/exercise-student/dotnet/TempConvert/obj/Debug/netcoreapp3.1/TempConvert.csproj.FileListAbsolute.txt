@@ -1,0 +1,13 @@
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\05_Command_Line_Programs\exercise-student\dotnet\TempConvert\bin\Debug\netcoreapp3.1\TempConvert.exe
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\05_Command_Line_Programs\exercise-student\dotnet\TempConvert\bin\Debug\netcoreapp3.1\TempConvert.deps.json
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\05_Command_Line_Programs\exercise-student\dotnet\TempConvert\bin\Debug\netcoreapp3.1\TempConvert.runtimeconfig.json
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\05_Command_Line_Programs\exercise-student\dotnet\TempConvert\bin\Debug\netcoreapp3.1\TempConvert.runtimeconfig.dev.json
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\05_Command_Line_Programs\exercise-student\dotnet\TempConvert\bin\Debug\netcoreapp3.1\TempConvert.dll
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\05_Command_Line_Programs\exercise-student\dotnet\TempConvert\bin\Debug\netcoreapp3.1\TempConvert.pdb
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\05_Command_Line_Programs\exercise-student\dotnet\TempConvert\obj\Debug\netcoreapp3.1\TempConvert.csprojAssemblyReference.cache
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\05_Command_Line_Programs\exercise-student\dotnet\TempConvert\obj\Debug\netcoreapp3.1\TempConvert.AssemblyInfoInputs.cache
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\05_Command_Line_Programs\exercise-student\dotnet\TempConvert\obj\Debug\netcoreapp3.1\TempConvert.AssemblyInfo.cs
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\05_Command_Line_Programs\exercise-student\dotnet\TempConvert\obj\Debug\netcoreapp3.1\TempConvert.csproj.CoreCompileInputs.cache
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\05_Command_Line_Programs\exercise-student\dotnet\TempConvert\obj\Debug\netcoreapp3.1\TempConvert.dll
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\05_Command_Line_Programs\exercise-student\dotnet\TempConvert\obj\Debug\netcoreapp3.1\TempConvert.pdb
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\05_Command_Line_Programs\exercise-student\dotnet\TempConvert\obj\Debug\netcoreapp3.1\TempConvert.genruntimeconfig.cache

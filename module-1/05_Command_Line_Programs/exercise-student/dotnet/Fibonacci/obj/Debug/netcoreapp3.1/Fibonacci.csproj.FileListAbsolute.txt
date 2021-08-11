@@ -1,0 +1,13 @@
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\05_Command_Line_Programs\exercise-student\dotnet\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.exe
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\05_Command_Line_Programs\exercise-student\dotnet\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.deps.json
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\05_Command_Line_Programs\exercise-student\dotnet\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.runtimeconfig.json
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\05_Command_Line_Programs\exercise-student\dotnet\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.runtimeconfig.dev.json
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\05_Command_Line_Programs\exercise-student\dotnet\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.dll
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\05_Command_Line_Programs\exercise-student\dotnet\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.pdb
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\05_Command_Line_Programs\exercise-student\dotnet\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.csprojAssemblyReference.cache
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\05_Command_Line_Programs\exercise-student\dotnet\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.AssemblyInfoInputs.cache
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\05_Command_Line_Programs\exercise-student\dotnet\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.AssemblyInfo.cs
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\05_Command_Line_Programs\exercise-student\dotnet\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\05_Command_Line_Programs\exercise-student\dotnet\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.dll
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\05_Command_Line_Programs\exercise-student\dotnet\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.pdb
+C:\Users\Student\douglasstauffer-c-sharp-orange\module-1\05_Command_Line_Programs\exercise-student\dotnet\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.genruntimeconfig.cache
